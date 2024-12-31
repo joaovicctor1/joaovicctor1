@@ -7,7 +7,7 @@
 
 
 - 📚 Hoje estou cursando o primeiro ano do ensino médio. Na área da programação estudo JavaScript, React e linguagem de marcação como HTML E CSS.
-- 💻 linguagens...
+- 💻 Linguagens...
    <div style="display: inline_block"><br>
      <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
      <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
